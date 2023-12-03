@@ -44,7 +44,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ```bash
 "engines": {
-    "node": ">=20.0.0"
+    "node": "18"
   }
 ```
 
